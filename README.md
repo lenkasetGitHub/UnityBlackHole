@@ -1,6 +1,6 @@
 # UnityBlackHole
 
-使用光线步进制作
+使用光线步进制作 [原文地址](https://www.cnblogs.com/GuyaWeiren/p/15376286.html)
 
 Bloom后处理效果：[点击这里](https://github.com/keijiro/KinoBloom/tree/master/Assets/Kino/Bloom)
 
